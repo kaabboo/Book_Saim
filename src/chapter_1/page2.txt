@@ -1,0 +1,8 @@
+
+this is page 2 of chapter
+
+
+
+ the second file
+
+ now we have git enabled
